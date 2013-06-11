@@ -1,4 +1,6 @@
-vtex_collection_selector
+Vtex Collection Selector
 ========================
 
-Facilita a mostragem de coleções a partir de uma marca de produto ou grupo de produtos
+Mostragem de coleções a partir de uma marca de produto ou grupo de produtos.
+
+MIT License.
