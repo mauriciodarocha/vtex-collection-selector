@@ -1,13 +1,14 @@
 /**
 
 @author: Mauricio Rocha
+@contributor: Marcelo Anderson
 plugin: vtex_collection_selector
 
 purpose:    Build box with collections.
              
 use:
         jQuery("#container").vtex_collection_selector({
-            url: "/ColecaoFiltros",
+            url: "/ColecaoFiltros", // required. Path to acquire collections
             callback: null // Callback after load collection
             rotate: false, // Rotate selectors
             clickable: false // If set to true, it'll show collection only if selector is clicked.
